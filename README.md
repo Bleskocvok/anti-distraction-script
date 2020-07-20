@@ -31,5 +31,5 @@ A script that can lock you from using specific websites so that you can focus on
 
 1. You can unlock them again by entering `./hostctrl.sh unlock`.
 
-**Note:** if you are unsure whether it's currently locked or not, you can check by entering `./hostctrl.sh check`.
+**Note:** if you are unsure whether it's currently locked or not, you can check by entering `./hostctrl.sh check`.  
 **Note:** you might not want to be playing with the file `/etc/hosts` alongside this script. It will probably overwrite the changes you make.
